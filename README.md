@@ -61,11 +61,11 @@ This will delete all present attendance data and create new attendance objects f
 
 ### Teacher Page
 
-![alt text](https://imgur.com/pMAoEbG.png)
+![alt text](https://i.imgur.com/18II0IA.jpg)
 
 ![alt text](https://imgur.com/ZiQ3RRA.png)
 
-![alt text](https://imgur.com/i025CJW.png)
+![alt text](https://i.imgur.com/UeAyodT.png)
 
 ![alt text](https://imgur.com/HQlLYmC.png)
 
@@ -73,19 +73,19 @@ This will delete all present attendance data and create new attendance objects f
 
 ![alt text](https://imgur.com/xIKEMvQ.png)
 
-![alt text](https://imgur.com/4Rl7Fpv.png)
+![alt text](https://i.imgur.com/VIwMmfB.png)
 
 ### Student Page
 
 ![alt text](https://i.imgur.com/fV9aYNH.jpg)
 
-![alt text](https://imgur.com/5pzl7m3.png)
+![alt text](https://i.imgur.com/CScvLCK.png)
 
-![alt text](https://imgur.com/7zWhHZx.png)
+![alt text](https://i.imgur.com/nlgK3zY.png)
 
 ![alt text](https://imgur.com/fu7gxk8.png)
 
-![alt text](https://imgur.com/NZqU268.png)
+![alt text](https://i.imgur.com/gfJUnTv.jpg)
 
 ### Admin Page
 
