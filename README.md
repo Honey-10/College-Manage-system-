@@ -83,14 +83,14 @@ This will delete all present attendance data and create new attendance objects f
 
 ![alt text](https://i.imgur.com/nlgK3zY.png)
 
-![alt text](https://imgur.com/fu7gxk8.png)
+![alt text](https://i.imgur.com/cCICxB7.jpg)
 
 ![alt text](https://i.imgur.com/gfJUnTv.jpg)
 
 ### Admin Page
 
-![alt text](https://imgur.com/sDvDc9N.png)
+![alt text](https://i.imgur.com/76aJjPR.jpg)
 
-![alt text](https://imgur.com/tMKWx6f.png)
+![alt text](https://i.imgur.com/bacQR6x.png)
 
-![alt text](https://imgur.com/PvCsNeB.png)
+![alt text](https://i.imgur.com/K53yq80.png)
